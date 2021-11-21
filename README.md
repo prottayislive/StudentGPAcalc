@@ -4,4 +4,5 @@ The student CGPA calculator is a percentage calculator made in java where users 
 
 This program uses concepts of Object Oriented Programming in Java.
 
+#### How to run
 ```Clone this repository and run```
